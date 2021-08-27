@@ -1,7 +1,6 @@
-# Starbucks Website and Responsive
-# Redesign by Nguyen Quoc Hieu 
+This is Starbucks Landingpage project development by me
 
-**URL**: https://quochieu2k.github.io/Starbucks/
+Detail: https://quochieu2k.github.io/Starbucks/
 
 **Three color of Starbucks!!!**
 
